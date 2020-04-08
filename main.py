@@ -1,7 +1,6 @@
+# Rob Durst @ 2020
 from pathlib import Path
-import time
 from collections import Counter
-from illiad import theBook
 from asciiStuffs import encodeASCII, decToBin, binToDec
 
 class Node:
@@ -22,7 +21,7 @@ def writeBytesToFile(someString, filename):
     newFile = open(filename, "wb")
     newFile.write(bytess)
 
-# much help with decoding from here:
+# much help with de coding from here:
 # https://bhrigu.me/blog/2017/01/17/huffman-coding-python-implementation/
 def bytesToString(file):
     bitString = ""
