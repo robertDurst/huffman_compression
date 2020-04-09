@@ -11,6 +11,8 @@ Implemented via [this video](https://www.youtube.com/watch?v=NjhJJYHpYsg). Read 
 
 **example.py**
 ```python
+from huffman import compress, decompress
+
 # obviously you can compress much larger things...
 data = "Avocados are super tasty!"
 
