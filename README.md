@@ -1,9 +1,13 @@
 # Huffman's Compression Algorithm
 
-Implemented via [this video](https://www.youtube.com/watch?v=NjhJJYHpYsg). Read more [here](https://en.wikipedia.org/wiki/Huffman_coding). Fixed byte decoding/encoding issue with help [from this post](# https://bhrigu.me/blog/2017/01/17/huffman-coding-python-implementation/
-). Actual [motivating factor](https://arxiv.org/abs/2004.02872) along with avoiding an internation relations essay. What I like to think motivated me:
+<p align="center">
+  <img src="https://media.giphy.com/media/duXkd6NG5MwOKomroU/giphy.gif">
+</p>
 
-[![IMAGE ALT TEXT HERE](https://news.mlh.io/wp-content/uploads/2015/06/2.png)](https://www.youtube.com/watch?v=NH2lwGzBruM)
+Implemented via [this video](https://www.youtube.com/watch?v=NjhJJYHpYsg). Read more [here](https://en.wikipedia.org/wiki/Huffman_coding). Fixed byte decoding/encoding issue with help [from this post](# https://bhrigu.me/blog/2017/01/17/huffman-coding-python-implementation/
+). Actual [motivating factor](https://arxiv.org/abs/2004.02872) along with avoiding an international relations essay. [What I like to think motivated me](https://www.youtube.com/watch?v=NH2lwGzBruM).
+
+
 
 ## Stats
 
